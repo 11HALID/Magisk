@@ -1,4 +1,4 @@
-# Magisk Changelog
+# Magisk esc
 
 ### v30.1 (2025.7.3)
 
